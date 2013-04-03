@@ -957,7 +957,7 @@ AcDbLayerTableRecord
   2
 0
  70
-1
+0
  62
 7
   6
@@ -979,7 +979,7 @@ AcDbLayerTableRecord
   2
 microATX
  70
-1
+0
  62
 2
   6
@@ -1001,7 +1001,7 @@ AcDbLayerTableRecord
   2
 Top
  70
-1
+0
  62
 7
   6
@@ -1045,7 +1045,7 @@ AcDbLayerTableRecord
   2
 Front
  70
-1
+0
  62
 7
   6
@@ -1067,7 +1067,7 @@ AcDbLayerTableRecord
   2
 Restriction
  70
-1
+0
  62
 1
   6
@@ -1089,7 +1089,7 @@ AcDbLayerTableRecord
   2
 Documentation
  70
-1
+0
  62
 3
   6
@@ -1111,7 +1111,7 @@ AcDbLayerTableRecord
   2
 Mask
  70
-1
+0
  62
 7
   6
@@ -1133,7 +1133,7 @@ AcDbLayerTableRecord
   2
 Bottom Brake
  70
-1
+0
  62
 6
   6
@@ -1155,7 +1155,7 @@ AcDbLayerTableRecord
   2
 Front Brake
  70
-1
+0
  62
 6
   6
@@ -1177,7 +1177,7 @@ AcDbLayerTableRecord
   2
 Mask Brake
  70
-1
+0
  62
 6
   6
@@ -1199,7 +1199,7 @@ AcDbLayerTableRecord
   2
 Top Brake
  70
-1
+0
  62
 6
   6
@@ -43753,6 +43753,326 @@ ByLayer
  40
 1.25
   0
+LINE
+  5
+5F5
+100
+AcDbEntity
+100
+AcDbLine
+  8
+Restriction
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+318.7199999999999136
+ 20
+472.0
+ 30
+0.0
+ 11
+398.7199999999999136
+ 21
+472.0
+ 31
+0.0
+  0
+LINE
+  5
+5F6
+100
+AcDbEntity
+100
+AcDbLine
+  8
+Restriction
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+398.7199999999999136
+ 20
+472.0
+ 30
+0.0
+ 11
+398.7199999999999136
+ 21
+497.5
+ 31
+0.0
+  0
+LINE
+  5
+5F7
+100
+AcDbEntity
+100
+AcDbLine
+  8
+Restriction
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+398.7199999999999136
+ 20
+497.5
+ 30
+0.0
+ 11
+318.7199999999999136
+ 21
+497.5
+ 31
+0.0
+  0
+LINE
+  5
+5F8
+100
+AcDbEntity
+100
+AcDbLine
+  8
+Restriction
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+318.7199999999999136
+ 20
+497.5
+ 30
+0.0
+ 11
+318.7199999999999136
+ 21
+472.0
+ 31
+0.0
+  0
+LINE
+  5
+5F9
+100
+AcDbEntity
+100
+AcDbLine
+  8
+Restriction
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+307.9149999999999068
+ 20
+295.0
+ 30
+0.0
+ 11
+409.5249999999999204
+ 21
+295.0
+ 31
+0.0
+  0
+LINE
+  5
+5FA
+100
+AcDbEntity
+100
+AcDbLine
+  8
+Restriction
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+409.5249999999999204
+ 20
+295.0
+ 30
+0.0
+ 11
+409.5249999999999204
+ 21
+442.0
+ 31
+0.0
+  0
+LINE
+  5
+5FB
+100
+AcDbEntity
+100
+AcDbLine
+  8
+Restriction
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+409.5249999999999204
+ 20
+442.0
+ 30
+0.0
+ 11
+307.9149999999999068
+ 21
+442.0
+ 31
+0.0
+  0
+LINE
+  5
+5FC
+100
+AcDbEntity
+100
+AcDbLine
+  8
+Restriction
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+307.9149999999999068
+ 20
+442.0
+ 30
+0.0
+ 11
+307.9149999999999068
+ 21
+295.0
+ 31
+0.0
+  0
+CIRCLE
+  5
+5FD
+100
+AcDbEntity
+100
+AcDbCircle
+  8
+Bottom
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+311.0949999999999136
+ 20
+336.2799999999999727
+ 30
+0.0
+ 40
+1.25
+  0
+CIRCLE
+  5
+5FE
+100
+AcDbEntity
+100
+AcDbCircle
+  8
+Bottom
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+311.0949999999999136
+ 20
+380.7299999999999613
+ 30
+0.0
+ 40
+1.25
+  0
+CIRCLE
+  5
+5FF
+100
+AcDbEntity
+100
+AcDbCircle
+  8
+Bottom
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+406.3449999999999136
+ 20
+336.2799999999999727
+ 30
+0.0
+ 40
+1.25
+  0
+CIRCLE
+  5
+600
+100
+AcDbEntity
+100
+AcDbCircle
+  8
+Bottom
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+406.3449999999999136
+ 20
+380.7299999999999613
+ 30
+0.0
+ 40
+1.25
+  0
 ENDSEC
   0
 SECTION
@@ -43791,7 +44111,7 @@ E
   3
 AcDbVariableDictionary
 350
-5F5
+601
   0
 DICTIONARY
   5
@@ -44255,7 +44575,7 @@ Layout2
   0
 DICTIONARY
   5
-5F5
+601
 100
 AcDbDictionary
 281
@@ -44263,15 +44583,15 @@ AcDbDictionary
   3
 DIMASSOC
 350
-5F7
+603
   3
 HIDETEXT
 350
-5F6
+602
   0
 DICTIONARYVAR
   5
-5F6
+602
 100
 DictionaryVariables
 280
@@ -44281,7 +44601,7 @@ DictionaryVariables
   0
 DICTIONARYVAR
   5
-5F7
+603
 100
 DictionaryVariables
 280
