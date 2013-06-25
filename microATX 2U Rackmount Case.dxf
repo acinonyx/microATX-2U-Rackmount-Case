@@ -957,7 +957,7 @@ AcDbLayerTableRecord
   2
 0
  70
-1
+0
  62
 7
   6
@@ -1001,7 +1001,7 @@ AcDbLayerTableRecord
   2
 Top
  70
-1
+0
  62
 7
   6
@@ -1045,7 +1045,7 @@ AcDbLayerTableRecord
   2
 Front
  70
-1
+0
  62
 7
   6
@@ -1067,7 +1067,7 @@ AcDbLayerTableRecord
   2
 Restriction
  70
-1
+0
  62
 1
   6
@@ -1089,7 +1089,7 @@ AcDbLayerTableRecord
   2
 Documentation
  70
-1
+0
  62
 3
   6
@@ -1111,7 +1111,7 @@ AcDbLayerTableRecord
   2
 Mask
  70
-1
+0
  62
 7
   6
@@ -1133,7 +1133,7 @@ AcDbLayerTableRecord
   2
 Bottom Brake
  70
-1
+0
  62
 6
   6
@@ -1155,7 +1155,7 @@ AcDbLayerTableRecord
   2
 Front Brake
  70
-1
+0
  62
 6
   6
@@ -1177,7 +1177,7 @@ AcDbLayerTableRecord
   2
 Mask Brake
  70
-1
+0
  62
 6
   6
@@ -1199,7 +1199,7 @@ AcDbLayerTableRecord
   2
 Top Brake
  70
-1
+0
  62
 6
   6
@@ -15811,7 +15811,7 @@ unicode
  50
 90.0
  73
-1
+0
  44
 1.0
   0
@@ -15851,7 +15851,7 @@ unicode
  50
 90.0
  73
-1
+0
  44
 1.0
   0
@@ -15891,7 +15891,7 @@ unicode
  50
 0.0
  73
-1
+0
  44
 1.0
   0
@@ -15931,7 +15931,7 @@ unicode
  50
 0.0
  73
-1
+0
  44
 1.0
   0
@@ -15971,7 +15971,7 @@ unicode
  50
 90.0
  73
-1
+0
  44
 1.0
   0
@@ -16011,7 +16011,7 @@ unicode
  50
 90.0
  73
-1
+0
  44
 1.0
   0
@@ -30783,7 +30783,7 @@ unicode
  50
 0.0
  73
-0
+1
  44
 1.0
   0
@@ -32395,7 +32395,7 @@ unicode
  50
 90.0
  73
-1
+0
  44
 1.0
   0
@@ -32435,7 +32435,7 @@ unicode
  50
 90.0
  73
-1
+0
  44
 1.0
   0
@@ -34555,7 +34555,7 @@ unicode
  50
 0.0
  73
-1
+0
  44
 1.0
   0
@@ -34595,7 +34595,7 @@ unicode
  50
 0.0
  73
-1
+0
  44
 1.0
   0
@@ -34635,7 +34635,7 @@ unicode
  50
 0.0
  73
-1
+0
  44
 1.0
   0
@@ -34831,7 +34831,7 @@ unicode
  50
 0.0
  73
-1
+0
  44
 1.0
   0
@@ -35795,7 +35795,7 @@ unicode
  50
 0.0
  73
-1
+0
  44
 1.0
   0
@@ -35835,7 +35835,7 @@ unicode
  50
 0.0
  73
-1
+0
  44
 1.0
   0
@@ -35875,7 +35875,7 @@ unicode
  50
 0.0
  73
-1
+0
  44
 1.0
   0
@@ -36487,7 +36487,7 @@ unicode
  50
 0.0
  73
-1
+0
  44
 1.0
   0
@@ -36527,7 +36527,7 @@ unicode
  50
 0.0
  73
-1
+0
  44
 1.0
   0
@@ -36567,7 +36567,7 @@ unicode
  50
 0.0
  73
-1
+0
  44
 1.0
   0
@@ -40291,7 +40291,7 @@ unicode
  50
 0.0
  73
-1
+0
  44
 1.0
   0
@@ -40331,7 +40331,7 @@ unicode
  50
 0.0
  73
-1
+0
  44
 1.0
   0
@@ -41161,153 +41161,9 @@ ByLayer
  31
 0.0
   0
-LINE
+ARC
   5
 596
-100
-AcDbEntity
-100
-AcDbLine
-  8
-Mask
- 62
-256
-370
--1
-  6
-ByLayer
- 10
-176.3099999999998886
- 20
-95.7248000000000019
- 30
-0.0
- 11
-176.3099999999998886
- 21
-53.2547999999999959
- 31
-0.0
-  0
-ARC
-  5
-597
-100
-AcDbEntity
-  8
-Mask
- 62
-256
-370
--1
-  6
-ByLayer
-100
-AcDbCircle
- 10
-175.3199999999998795
- 20
-53.2547999999999959
- 30
-0.0
- 40
-0.99
-100
-AcDbArc
- 50
-270.0
- 51
-0.0
-  0
-LINE
-  5
-598
-100
-AcDbEntity
-100
-AcDbLine
-  8
-Mask
- 62
-256
-370
--1
-  6
-ByLayer
- 10
-175.3199999999998795
- 20
-52.2647999999999939
- 30
-0.0
- 11
-18.5499999999998977
- 21
-52.2647999999999939
- 31
-0.0
-  0
-LINE
-  5
-599
-100
-AcDbEntity
-100
-AcDbLine
-  8
-Mask
- 62
-256
-370
--1
-  6
-ByLayer
- 10
-17.5599999999998886
- 20
-53.2547999999999959
- 30
-0.0
- 11
-17.5599999999998886
- 21
-95.7248000000000019
- 31
-0.0
-  0
-ARC
-  5
-59A
-100
-AcDbEntity
-  8
-Mask
- 62
-256
-370
--1
-  6
-ByLayer
-100
-AcDbCircle
- 10
-18.5499999999998977
- 20
-53.2547999999999959
- 30
-0.0
- 40
-0.99
-100
-AcDbArc
- 50
-180.0
- 51
-270.0
-  0
-ARC
-  5
-59B
 100
 AcDbEntity
   8
@@ -41337,7 +41193,7 @@ AcDbArc
   0
 LINE
   5
-59C
+597
 100
 AcDbEntity
 100
@@ -41365,7 +41221,7 @@ DASHED
   0
 LINE
   5
-59D
+598
 100
 AcDbEntity
 100
@@ -41393,7 +41249,7 @@ ByLayer
   0
 LINE
   5
-59E
+599
 100
 AcDbEntity
 100
@@ -41421,7 +41277,7 @@ ByLayer
   0
 LINE
   5
-59F
+59A
 100
 AcDbEntity
 100
@@ -41449,7 +41305,7 @@ ByLayer
   0
 LINE
   5
-5A0
+59B
 100
 AcDbEntity
 100
@@ -41477,7 +41333,7 @@ ByLayer
   0
 CIRCLE
   5
-5A1
+59C
 100
 AcDbEntity
 100
@@ -41501,7 +41357,7 @@ ByLayer
   0
 CIRCLE
   5
-5A2
+59D
 100
 AcDbEntity
 100
@@ -41516,6 +41372,126 @@ microATX
 ByLayer
  10
 183.8299999999999841
+ 20
+218.2099999999999227
+ 30
+0.0
+ 40
+1.9811999999999999
+  0
+CIRCLE
+  5
+59E
+100
+AcDbEntity
+100
+AcDbCircle
+  8
+microATX
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+183.8299999999998988
+ 20
+63.2700000000000244
+ 30
+0.0
+ 40
+1.9811999999999999
+  0
+CIRCLE
+  5
+59F
+100
+AcDbEntity
+100
+AcDbCircle
+  8
+microATX
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+26.3499999999999091
+ 20
+86.1300000000000949
+ 30
+0.0
+ 40
+1.9811999999999999
+  0
+CIRCLE
+  5
+5A0
+100
+AcDbEntity
+100
+AcDbCircle
+  8
+microATX
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+229.5499999999999829
+ 20
+218.2099999999999227
+ 30
+0.0
+ 40
+1.9811999999999999
+  0
+CIRCLE
+  5
+5A1
+100
+AcDbEntity
+100
+AcDbCircle
+  8
+microATX
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+229.5499999999998977
+ 20
+63.2700000000000244
+ 30
+0.0
+ 40
+1.9811999999999999
+  0
+CIRCLE
+  5
+5A2
+100
+AcDbEntity
+100
+AcDbCircle
+  8
+microATX
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+249.8699999999999761
  20
 218.2099999999999227
  30
@@ -41539,126 +41515,6 @@ microATX
   6
 ByLayer
  10
-183.8299999999998988
- 20
-63.2700000000000244
- 30
-0.0
- 40
-1.9811999999999999
-  0
-CIRCLE
-  5
-5A4
-100
-AcDbEntity
-100
-AcDbCircle
-  8
-microATX
- 62
-256
-370
--1
-  6
-ByLayer
- 10
-26.3499999999999091
- 20
-86.1300000000000949
- 30
-0.0
- 40
-1.9811999999999999
-  0
-CIRCLE
-  5
-5A5
-100
-AcDbEntity
-100
-AcDbCircle
-  8
-microATX
- 62
-256
-370
--1
-  6
-ByLayer
- 10
-229.5499999999999829
- 20
-218.2099999999999227
- 30
-0.0
- 40
-1.9811999999999999
-  0
-CIRCLE
-  5
-5A6
-100
-AcDbEntity
-100
-AcDbCircle
-  8
-microATX
- 62
-256
-370
--1
-  6
-ByLayer
- 10
-229.5499999999998977
- 20
-63.2700000000000244
- 30
-0.0
- 40
-1.9811999999999999
-  0
-CIRCLE
-  5
-5A7
-100
-AcDbEntity
-100
-AcDbCircle
-  8
-microATX
- 62
-256
-370
--1
-  6
-ByLayer
- 10
-249.8699999999999761
- 20
-218.2099999999999227
- 30
-0.0
- 40
-1.9811999999999999
-  0
-CIRCLE
-  5
-5A8
-100
-AcDbEntity
-100
-AcDbCircle
-  8
-microATX
- 62
-256
-370
--1
-  6
-ByLayer
- 10
 26.3499999999999659
  20
 290.6000000000000227
@@ -41669,7 +41525,7 @@ ByLayer
   0
 CIRCLE
   5
-5A9
+5A4
 100
 AcDbEntity
 100
@@ -41693,7 +41549,7 @@ ByLayer
   0
 POINT
   5
-5AA
+5A5
 100
 AcDbEntity
 100
@@ -41715,7 +41571,7 @@ ByLayer
   0
 CIRCLE
   5
-5AB
+5A6
 100
 AcDbEntity
 100
@@ -41739,7 +41595,7 @@ ByLayer
   0
 CIRCLE
   5
-5AC
+5A7
 100
 AcDbEntity
 100
@@ -41763,7 +41619,7 @@ ByLayer
   0
 CIRCLE
   5
-5AD
+5A8
 100
 AcDbEntity
 100
@@ -41787,7 +41643,7 @@ ByLayer
   0
 CIRCLE
   5
-5AE
+5A9
 100
 AcDbEntity
 100
@@ -41811,7 +41667,7 @@ ByLayer
   0
 CIRCLE
   5
-5AF
+5AA
 100
 AcDbEntity
 100
@@ -41835,7 +41691,7 @@ ByLayer
   0
 CIRCLE
   5
-5B0
+5AB
 100
 AcDbEntity
 100
@@ -41859,7 +41715,7 @@ ByLayer
   0
 CIRCLE
   5
-5B1
+5AC
 100
 AcDbEntity
 100
@@ -41883,7 +41739,7 @@ ByLayer
   0
 CIRCLE
   5
-5B2
+5AD
 100
 AcDbEntity
 100
@@ -41907,7 +41763,7 @@ ByLayer
   0
 CIRCLE
   5
-5B3
+5AE
 100
 AcDbEntity
 100
@@ -41928,6 +41784,62 @@ ByLayer
 0.0
  40
 2.5
+  0
+LINE
+  5
+5AF
+100
+AcDbEntity
+100
+AcDbLine
+  8
+Mask
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+17.5599999999998886
+ 20
+50.0
+ 30
+0.0
+ 11
+17.5599999999998886
+ 21
+95.7248000000000019
+ 31
+0.0
+  0
+LINE
+  5
+5B0
+100
+AcDbEntity
+100
+AcDbLine
+  8
+Mask
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+176.3099999999998886
+ 20
+95.7248000000000019
+ 30
+0.0
+ 11
+176.3099999999998886
+ 21
+49.9999999999999929
+ 31
+0.0
   0
 ENDSEC
   0
@@ -41967,7 +41879,7 @@ E
   3
 AcDbVariableDictionary
 350
-5B4
+5B1
   0
 DICTIONARY
   5
@@ -42431,7 +42343,7 @@ Layout2
   0
 DICTIONARY
   5
-5B4
+5B1
 100
 AcDbDictionary
 281
@@ -42439,15 +42351,15 @@ AcDbDictionary
   3
 DIMASSOC
 350
-5B6
+5B3
   3
 HIDETEXT
 350
-5B5
+5B2
   0
 DICTIONARYVAR
   5
-5B5
+5B2
 100
 DictionaryVariables
 280
@@ -42457,7 +42369,7 @@ DictionaryVariables
   0
 DICTIONARYVAR
   5
-5B6
+5B3
 100
 DictionaryVariables
 280
