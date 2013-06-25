@@ -957,7 +957,7 @@ AcDbLayerTableRecord
   2
 0
  70
-0
+1
  62
 7
   6
@@ -979,7 +979,7 @@ AcDbLayerTableRecord
   2
 microATX
  70
-0
+1
  62
 2
   6
@@ -1001,7 +1001,7 @@ AcDbLayerTableRecord
   2
 Top
  70
-0
+1
  62
 7
   6
@@ -1023,7 +1023,7 @@ AcDbLayerTableRecord
   2
 Bottom
  70
-0
+1
  62
 7
   6
@@ -1067,7 +1067,7 @@ AcDbLayerTableRecord
   2
 Restriction
  70
-0
+1
  62
 1
   6
@@ -1089,7 +1089,7 @@ AcDbLayerTableRecord
   2
 Documentation
  70
-0
+1
  62
 3
   6
@@ -1133,7 +1133,7 @@ AcDbLayerTableRecord
   2
 Bottom Brake
  70
-0
+1
  62
 6
   6
@@ -1155,7 +1155,7 @@ AcDbLayerTableRecord
   2
 Front Brake
  70
-0
+1
  62
 6
   6
@@ -1199,7 +1199,7 @@ AcDbLayerTableRecord
   2
 Top Brake
  70
-0
+1
  62
 6
   6
@@ -15811,7 +15811,7 @@ unicode
  50
 90.0
  73
-0
+1
  44
 1.0
   0
@@ -15851,7 +15851,7 @@ unicode
  50
 90.0
  73
-0
+1
  44
 1.0
   0
@@ -15891,7 +15891,7 @@ unicode
  50
 0.0
  73
-0
+1
  44
 1.0
   0
@@ -15931,7 +15931,7 @@ unicode
  50
 0.0
  73
-0
+1
  44
 1.0
   0
@@ -15971,7 +15971,7 @@ unicode
  50
 90.0
  73
-0
+1
  44
 1.0
   0
@@ -16011,7 +16011,7 @@ unicode
  50
 90.0
  73
-0
+1
  44
 1.0
   0
@@ -30783,7 +30783,7 @@ unicode
  50
 0.0
  73
-1
+0
  44
 1.0
   0
@@ -32395,7 +32395,7 @@ unicode
  50
 90.0
  73
-0
+1
  44
 1.0
   0
@@ -32435,7 +32435,7 @@ unicode
  50
 90.0
  73
-0
+1
  44
 1.0
   0
@@ -34555,7 +34555,7 @@ unicode
  50
 0.0
  73
-0
+1
  44
 1.0
   0
@@ -34595,7 +34595,7 @@ unicode
  50
 0.0
  73
-0
+1
  44
 1.0
   0
@@ -34635,7 +34635,7 @@ unicode
  50
 0.0
  73
-0
+1
  44
 1.0
   0
@@ -34831,7 +34831,7 @@ unicode
  50
 0.0
  73
-0
+1
  44
 1.0
   0
@@ -35795,7 +35795,7 @@ unicode
  50
 0.0
  73
-0
+1
  44
 1.0
   0
@@ -35835,7 +35835,7 @@ unicode
  50
 0.0
  73
-0
+1
  44
 1.0
   0
@@ -35875,7 +35875,7 @@ unicode
  50
 0.0
  73
-0
+1
  44
 1.0
   0
@@ -36487,7 +36487,7 @@ unicode
  50
 0.0
  73
-0
+1
  44
 1.0
   0
@@ -36527,7 +36527,7 @@ unicode
  50
 0.0
  73
-0
+1
  44
 1.0
   0
@@ -36567,7 +36567,7 @@ unicode
  50
 0.0
  73
-0
+1
  44
 1.0
   0
@@ -40291,7 +40291,7 @@ unicode
  50
 0.0
  73
-0
+1
  44
 1.0
   0
@@ -40331,7 +40331,7 @@ unicode
  50
 0.0
  73
-0
+1
  44
 1.0
   0
@@ -41841,6 +41841,34 @@ ByLayer
  31
 0.0
   0
+LINE
+  5
+5B1
+100
+AcDbEntity
+100
+AcDbLine
+  8
+Mask
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+17.5599999999998886
+ 20
+50.0
+ 30
+0.0
+ 11
+176.3099999999998886
+ 21
+49.9999999999999929
+ 31
+0.0
+  0
 ENDSEC
   0
 SECTION
@@ -41879,7 +41907,7 @@ E
   3
 AcDbVariableDictionary
 350
-5B1
+5B2
   0
 DICTIONARY
   5
@@ -42343,7 +42371,7 @@ Layout2
   0
 DICTIONARY
   5
-5B1
+5B2
 100
 AcDbDictionary
 281
@@ -42351,15 +42379,15 @@ AcDbDictionary
   3
 DIMASSOC
 350
-5B3
+5B4
   3
 HIDETEXT
 350
-5B2
+5B3
   0
 DICTIONARYVAR
   5
-5B2
+5B3
 100
 DictionaryVariables
 280
@@ -42369,7 +42397,7 @@ DictionaryVariables
   0
 DICTIONARYVAR
   5
-5B3
+5B4
 100
 DictionaryVariables
 280
